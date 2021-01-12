@@ -8,9 +8,10 @@ Overview
 
 Project 4 in the General Assembly Software Engineering Immersive course built up the knowledge I had gained in the previous three weeks. The project required my team to use a Python Flask API, using a Flask REST framework to serve our data from a Postgres database. We built a separate frontend using React, and deployed the website online.
 
-A group of three of us worked on the website for eight days and then I presented it to the rest of the class. You can see the files for the completed app on GitHub pages here.
+A group of three of us worked on the website for eight days and then I presented it to the rest of the class. 
 
 Link to the website: https://bit.ly/2KbRNtQ
+
 
 Brief
 
@@ -54,14 +55,14 @@ We looked at some stretch goals as well, and this included introducing an extern
 
 Screenshots
 
-Below is an image of the Home page. The image in the background gently moves from left to right, which looks great, but the styling could be sharpened up a little more.
+Below is an image of the Home page. The image in the background gently moves from left to right, which looks great, but the styling could be sharpened up a little more:
+![home_page](https://i.imgur.com/Ji7mJLv.png)
 
 On the next page shows the list of all the books. It's a colourful page because children’s books are inherently bright by design.
+![list_page](https://i.imgur.com/pDZuHb3.png)
 
 The screenshot below shows the page that appears when the user clicks on a single book. Note the comments section, the design of which needs further fine-tuning, the comment box, and the ‘Read More’ button.
-
-The screenshot below shows the Signup/Login page. The user can create a new account, as shown, or they can click the link below to jump to the login page if they’ve already created their account. 
-
+![book_page](https://i.imgur.com/kckC6Py.png)
 
 Lessons Learned
 
