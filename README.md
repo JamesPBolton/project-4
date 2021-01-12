@@ -14,28 +14,28 @@ A group of three of us worked on the website for eight days and then I presented
 Brief
 
 We had to:
-Work in a team of three, using Git to code collaboratively
-Build a full-stack application by making our own backend and our own frontend
-Use a Python Flask API to serve our data from a Postgres database
-Consume our API with a separate frontend built with React
-Create a complete product, which meant multiple relationships and CRUD functionality 
-Consider user stories/wireframes and identifying the features that were core to MVP
-Ensure we developed a visually impressive design
-Deploy our app online
+* Work in a team of three, using Git to code collaboratively
+* Build a full-stack application by making our own backend and our own frontend
+* Use a Python Flask API to serve our data from a Postgres database
+* Consume our API with a separate frontend built with React
+* Create a complete product, which meant multiple relationships and CRUD functionality 
+* Consider user stories/wireframes and identifying the features that were core to MVP
+* Ensure we developed a visually impressive design
+* Deploy our app online
 
 
 Technologies Used
 
-Python
-React
-JavaScript (ES6)
-CSS
-HTML
-APIs
-Insomnia
-Heroku
-VS Code
-Git and GitHub
+* Python
+* React
+* JavaScript (ES6)
+* CSS
+* HTML
+* APIs
+* Insomnia
+* Heroku
+* VS Code
+* Git and GitHub
 
 
 Approach
@@ -57,15 +57,9 @@ Below is an image of the Home page. The image in the background gently moves fro
 
 On the next page shows the list of all the books. It's a colourful page because children’s books are inherently bright by design.
 
-
-
-
 The screenshot below shows the page that appears when the user clicks on a single book. Note the comments section, the design of which needs further fine-tuning, the comment box, and the ‘Read More’ button.
+
 The screenshot below shows the Signup/Login page. The user can create a new account, as shown, or they can click the link below to jump to the login page if they’ve already created their account. 
-
-
-
-
 
 
 Lessons Learned
