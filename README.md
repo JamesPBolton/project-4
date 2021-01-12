@@ -10,6 +10,7 @@ Project 4 in the General Assembly Software Engineering Immersive course built up
 
 A group of three of us worked on the website for eight days and then I presented it to the rest of the class. You can see the files for the completed app on GitHub pages here.
 
+Link to the website: https://bit.ly/2KbRNtQ
 
 Brief
 
