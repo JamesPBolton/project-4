@@ -66,13 +66,13 @@ The screenshot below shows the page that appears when the user clicks on a singl
 
 Lessons Learned
 
-We learnt a lot more about working together to produce a finished product. Breaking the work down into sections that each of us could tackle wasn’t too difficult, but by its nature this project meant we would often be working in the same files and this created a few conflicts that we had to think about before we could choose which option we wanted to keep. This was clearly down to experience, and was partly down to writing code that was properly laid out (particularly around indentations) and was easy to read. My experience as a journalist and a writer means I understand the importance of making sure what we right in code is clear and concise.
+We learnt a lot more about working together to produce a finished product. Breaking the work down into sections that each of us could tackle wasn’t too difficult, but by its nature this project meant we would often be working in the same files and this created a few conflicts that we had to think about before we could choose which option we wanted to keep. That provided us with a challenge in the first few days, but it improved as we gained experience. We learnt that it was crucial to write code that was properly laid out (particularly around indentations) and was easy to read. My experience as a journalist and a writer means I understand the importance of making sure what we right in code is clear and concise.
 
-We worked hard to ensure the functionality was perfect, but that meant we didn’t leave much time for the styling. It can be difficult to get the balance right because ultimately the styling is what people see when they visit the site, but at least we can relax in the knowledge that it all works properly!
+We worked hard to ensure the functionality was perfect, and we got that done, which was a win. but that meant we didn’t leave much time for the styling. It can be difficult to get the balance right because ultimately the styling is what people see when they visit the site, but at least we can relax in the knowledge that it all works properly!
 
 I was already aware that taking a step-by-step process was critical, but this project really underlined the idea that I had to test every part of the code as it was written. Going step by step was much better than writing a lot of code and later spending time trying to find out where there was a problem.
 
-I used Insomnia to work out exactly how the code for writing and submitting comments was working, and I’ve included a screenshot over the page that shows a highlight of the project for me - when the comments would appear on the write book with the write user ID.
+I used Insomnia to work out exactly how the code for writing and submitting comments was working, and getting ths working was a highlight of the project for me. When the comments would appear on the right book with the right user ID it felt like a real win.
 
 
 Bugs
