@@ -1,10 +1,10 @@
 
-<h1>General Assembly - Software Engineering Immersive</h1>
+<h2>General Assembly - Software Engineering Immersive</h2>
 
-Poppins 📚 - A Python/ Flask/ Postgres full-stack app
+<h1>Poppins 📚 - A Python/ Flask/ Postgres full-stack app</h1>
 
 
-Overview
+<h3>Overview</h3>
 
 Project 4 in the General Assembly Software Engineering Immersive course built up the knowledge I had gained in the previous three weeks. The project required my team to use a Python Flask API, using a Flask REST framework to serve our data from a Postgres database. We built a separate frontend using React, and deployed the website online.
 
@@ -13,7 +13,7 @@ A group of three of us worked on the website for eight days and then I presented
 Link to the website: https://bit.ly/2KbRNtQ
 
 
-Brief
+<h3>Brief</h3>
 
 We had to:
 * Work in a team of three, using Git to code collaboratively
