@@ -26,7 +26,7 @@ We had to:
 * Deploy our app online
 
 
-Technologies Used
+<h3>Technologies Used</h3>
 
 * Python
 * React
@@ -40,7 +40,7 @@ Technologies Used
 * Git and GitHub
 
 
-Approach
+<h3>Approach</h3>
 
 We initially spent some time working out what project we wanted to do, and we had a few different ideas. We decided on a website called Poppins, named after Mary Poppins, which would allow parents to rate books that their children have read, and would allow them to choose what book their children might like to read next, based on the comments of other parents.
 
@@ -53,7 +53,7 @@ A neat feature was to include a link to Google Books, which displays the first f
 We looked at some stretch goals as well, and this included introducing an external API so that we would have a large number of books in the library. And we considered a rating system where books could be marked out of five or ten.
 
 
-Screenshots
+<h3>Screenshots</h3>
 
 Below is an image of the Home page. The image in the background gently moves from left to right, which looks great, but the styling could be sharpened up a little more:
 ![home_page](https://i.imgur.com/Ji7mJLv.png)
@@ -64,7 +64,7 @@ On the next page shows the list of all the books. It's a colourful page because 
 The screenshot below shows the page that appears when the user clicks on a single book. Note the comments section, the design of which needs further fine-tuning, the comment box, and the ‘Read More’ button.
 ![book_page](https://i.imgur.com/kckC6Py.png)
 
-Lessons Learned
+<h3>Lessons Learned</h3>
 
 We learnt a lot more about working together to produce a finished product. Breaking the work down into sections that each of us could tackle wasn’t too difficult, but by its nature this project meant we would often be working in the same files and this created a few conflicts that we had to think about before we could choose which option we wanted to keep. That provided us with a challenge in the first few days, but it improved as we gained experience. We learnt that it was crucial to write code that was properly laid out (particularly around indentations) and was easy to read. My experience as a journalist and a writer means I understand the importance of making sure what we right in code is clear and concise.
 
@@ -75,18 +75,18 @@ I was already aware that taking a step-by-step process was critical, but this pr
 I used Insomnia to work out exactly how the code for writing and submitting comments was working, and getting ths working was a highlight of the project for me. When the comments would appear on the right book with the right user ID it felt like a real win.
 
 
-Bugs
+<h3>Bugs</h3>
 
 The styling is perhaps the biggest bug, it needs a day or two spent on it to sharpen it up. The user’s profile page is also inactive because we ran out of time. This is a big frustration actually because it would have brought in key functionality such as allowing the user to upload an image and allowing the user to see all of the comments that they’ve submitted in one place, as well as the books that they’ve created and added to the overall list.
 
 
-Potential Future Features
+<h3>Potential Future Features</h3>
 
 We would like to incorporate an external API so that we can dramatically expand the number of books available. One challenge to this was the lack of available APIs that focus on books, and this is something that we should have considered in more detail when we began the project.
 
 We have also considered how we could set up a ‘book swap’ function, which would allow users to swap books with each other. This would be relatively easy to do because you could simply install a chat feature, or you could do it a more complex way that involved the user establishing a wish list of books they’d like to borrow.
 
 
-Credits
+<h3>Credits</h3>
 
 Thanks to the rest of the Poppins team: Rebecca Acio-Adea and Sagal Osman.
