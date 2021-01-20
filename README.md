@@ -75,7 +75,7 @@ I was already aware that taking a step-by-step process was critical, but this pr
 I used Insomnia to work out exactly how the code for writing and submitting comments was working, and getting this working was a highlight of the project for me. When the comments would appear on the right book with the right user ID it felt like a real win.
 
 Here's a code snippet that showed how I did that:
-
+```js
 @router.route('/books/<int:book_id>/comments', methods=['POST'])
 @secure_route
 def comment_create(book_id):
@@ -93,7 +93,7 @@ def comment_create(book_id):
 
   comment.book = book
   comment.save()
-
+```
 
 <h3>Bugs</h3>
 
